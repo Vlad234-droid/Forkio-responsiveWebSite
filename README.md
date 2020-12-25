@@ -2,14 +2,14 @@
 
 https://lxlotabuch.github.io/Final-Project-Forkio/dist/
 
-Команда: Антон Мірошніченко, Влад Баришполець.
+Team: lXlotabuch, Vlad234-droid.
 
-Технології:
+Technologies:
     Node.js;
     Gulp;
     Git repositories;
     SCSS;
 
 Завдання: 
- - Антон Мірошніченко: Завдання для студента №2 (Revolutionary Editor, Here is what you get, Fork Subscription Pricing), Gulp збірка.
- - Влад Баришполець: Завдання для студента №1 (Header, People Are Talking About Fork).
+ - lXlotabuch: (Revolutionary Editor, Here is what you get, Fork Subscription Pricing), Gulp build.
+ - Vlad234-droid: Завдання для студента №1 (Header, People Are Talking About Fork), Gulp build.
